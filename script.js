@@ -54,15 +54,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Thumbnail data (replace with your actual thumbnails)
     const thumbnails = [
-        { src: 'assests/thumbnail2.jpg', alt: 'Thumbnail 2', title: 'Expensive Watches' },
-        { src: 'assests/thumbnail1.jpg', alt: 'Thumbnail 1', title: 'Most Posinious' },
-        { src: 'assests/thumbnail3.jpg', alt: 'Thumbnail 3', title: 'Jackpot' },
-        { src: 'assests/thumbnail4.jpg', alt: 'Thumbnail 4', title: 'Secret Casinos' },
-        { src: 'assests/thumbnail5.jpg', alt: 'Thumbnail 5', title: 'Shark Attack' },
-        { src: 'assests/thumbnail6.jpg', alt: 'Thumbnail 6', title: 'Help the girl' },
-        { src: 'assests/thumbnail7.jpg', alt: 'Thumbnail 7', title: 'Top 5' },
-        { src: 'assests/thumbnail8.jpg', alt: 'Thumbnail 8', title: 'Fastest Car' },
-        { src: 'assests/thumbnail9.jpg', alt: 'Thumbnail 9', title: 'Monster Drink' },
+        { src: 'thumbnail2.jpg', alt: 'Thumbnail 2', title: 'Expensive Watches' },
+        { src: 'thumbnail2.jpg', alt: 'Thumbnail 2', title: 'Expensive Watches' },
+        { src: 'thumbnail1.jpg', alt: 'Thumbnail 1', title: 'Most Posinious' },
+        { src: 'thumbnail3.jpg', alt: 'Thumbnail 3', title: 'Jackpot' },
+        { src: 'thumbnail4.jpg', alt: 'Thumbnail 4', title: 'Secret Casinos' },
+        { src: 'thumbnail5.jpg', alt: 'Thumbnail 5', title: 'Shark Attack' },
+        { src: 'thumbnail6.jpg', alt: 'Thumbnail 6', title: 'Help the girl' },
+        { src: 'thumbnail7.jpg', alt: 'Thumbnail 7', title: 'Top 5' },
+        { src: 'thumbnail8.jpg', alt: 'Thumbnail 8', title: 'Fastest Car' },
+        { src: 'thumbnail9.jpg', alt: 'Thumbnail 9', title: 'Monster Drink' },
     ];
 
     function createThumbnailElement(thumbnail) {
