@@ -55,7 +55,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Thumbnail data (replace with your actual thumbnails)
     const thumbnails = [
         { src: 'thumbnail2.jpg', alt: 'Thumbnail 2', title: 'Expensive Watches' },
-        { src: 'thumbnail2.jpg', alt: 'Thumbnail 2', title: 'Expensive Watches' },
         { src: 'thumbnail1.jpg', alt: 'Thumbnail 1', title: 'Most Posinious' },
         { src: 'thumbnail3.jpg', alt: 'Thumbnail 3', title: 'Jackpot' },
         { src: 'thumbnail4.jpg', alt: 'Thumbnail 4', title: 'Secret Casinos' },
